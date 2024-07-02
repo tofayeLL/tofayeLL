@@ -77,9 +77,8 @@ In the ever-evolving world of web development, my vision is to seamlessly merge 
 
 
 
-<br/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tofayell&show_icons=true&locale=en" alt="tofayell" /></p>
+
 
 
 
