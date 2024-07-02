@@ -59,36 +59,34 @@ In the ever-evolving world of web development, my vision is to seamlessly merge 
 </p>
 <br/>
 
+<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/9792d43627b178fd4a45bcabb3647d7b34a62d64baf96a19abf6ea19d5cea8dd/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966" >
 
 
+## Current Overview
 
- 
-
- 
-
- 
- 
- 
+- 🔭 I'm currently working on a **React.js-based web project**
   
- 
+- 🌱 I’m currently learning **Next.js**
+
+- 💬 Ask me about **Html,CSS,JS,React.js**
+  
+- 📫 How to reach me **ahmedtofayel132@gmail.com**
+
+
+<br/>
 
 
 
-
- 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tofayell&show_icons=true&locale=en&layout=compact" alt="tofayell" /></p>
+<br/>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tofayell&show_icons=true&locale=en" alt="tofayell" /></p>
 
-- 📫 How to reach me **ahmedtofayel132@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
 
 
-<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/9792d43627b178fd4a45bcabb3647d7b34a62d64baf96a19abf6ea19d5cea8dd/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966" >
+
+
+
+
 
 
 
