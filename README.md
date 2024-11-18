@@ -75,6 +75,8 @@ In the ever-evolving world of web development, my vision is to seamlessly merge 
 
 <br/>
 
+![Waves](https://github.com/tofayeLL/tofayeLL/blob/main/waveeee.svg)
+
 
 
 
