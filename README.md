@@ -1,5 +1,5 @@
 <div align="center">
-<img width="100%" src="https://github.com/tofayeLL/tofayeLL/blob/main/github-banner.png" alt="cover" />
+<img width="100%" src="https://github.com/tofayeLL/tofayeLL/blob/main/github-Banner1.png" alt="cover" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tofayell&label=Profile%20views&color=0e75b6&style=flat" alt="tofayell" /> </p>
 </div>
 
