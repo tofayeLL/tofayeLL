@@ -11,22 +11,22 @@
         .wave {
             animation: wave 3s linear;
             animation-iteration-count: infinite;
-            fill: url(#gradient); /* Use lighter gradient fill */
+            fill: url(#gradient); /* Updated gradient */
         }
 
         .wave:hover {
-            fill: url(#hoverGradient); /* Hover gradient with a soft glow */
+            fill: url(#hoverGradient); /* Hover effect with a bold touch */
         }
 
         #wave2 {
             animation-duration: 5s;
             animation-direction: reverse;
-            opacity: 0.7;
+            opacity: 0.8;
         }
 
         #wave3 {
             animation-duration: 7s;
-            opacity: 0.5;
+            opacity: 0.6;
         }
 
         @keyframes wave {
@@ -36,18 +36,18 @@
         }
     </style>
     <defs>
-        <!-- Default Light Gradient -->
+        <!-- Default Medium Gradient -->
         <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="0%">
-            <stop offset="0%" stop-color="#D4BFFF" /> <!-- Light Royal Purple -->
-            <stop offset="50%" stop-color="#B0E6FF" /> <!-- Light Electric Blue -->
-            <stop offset="100%" stop-color="#FFC7E8" /> <!-- Light Soft Pink -->
+            <stop offset="0%" stop-color="#B08DFF" /> <!-- Medium Royal Purple -->
+            <stop offset="50%" stop-color="#89D9FF" /> <!-- Medium Electric Blue -->
+            <stop offset="100%" stop-color="#FF9ECF" /> <!-- Medium Soft Pink -->
         </linearGradient>
 
         <!-- Hover Gradient -->
         <linearGradient id="hoverGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-            <stop offset="0%" stop-color="#C9B3F8" /> <!-- Slightly darker purple -->
-            <stop offset="50%" stop-color="#A1DFFF" /> <!-- Slightly darker blue -->
-            <stop offset="100%" stop-color="#FFB3D6" /> <!-- Slightly darker pink -->
+            <stop offset="0%" stop-color="#9768E8" /> <!-- Slightly darker purple -->
+            <stop offset="50%" stop-color="#70C4F0" /> <!-- Slightly darker blue -->
+            <stop offset="100%" stop-color="#FF7EB6" /> <!-- Slightly darker pink -->
         </linearGradient>
 
         <filter id="goo">
