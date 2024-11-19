@@ -21,12 +21,12 @@
         #wave2 {
             animation-duration: 5s;
             animation-direction: reverse;
-            opacity: 0.6;
+            opacity: 0.7;
         }
 
         #wave3 {
             animation-duration: 7s;
-            opacity: 0.3;
+            opacity: 0.5;
         }
 
         @keyframes wave {
@@ -36,16 +36,18 @@
         }
     </style>
     <defs>
-        <!-- Gradient for default wave -->
+        <!-- Default Gradient -->
         <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="0%">
-            <stop offset="0%" stop-color="#9370DB" /> <!-- Light Purple -->
-            <stop offset="100%" stop-color="#87CEFA" /> <!-- Light Blue -->
+            <stop offset="0%" stop-color="#8A2BE2" /> <!-- Royal Purple -->
+            <stop offset="50%" stop-color="#00BFFF" /> <!-- Electric Blue -->
+            <stop offset="100%" stop-color="#FF69B4" /> <!-- Soft Pink -->
         </linearGradient>
 
-        <!-- Gradient for hover wave -->
+        <!-- Hover Gradient -->
         <linearGradient id="hoverGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-            <stop offset="0%" stop-color="#8364c8" /> <!-- Slightly darker purple -->
-            <stop offset="100%" stop-color="#76bde5" /> <!-- Slightly darker blue -->
+            <stop offset="0%" stop-color="#6A0DAD" /> <!-- Darker Purple -->
+            <stop offset="50%" stop-color="#1E90FF" /> <!-- Brighter Blue -->
+            <stop offset="100%" stop-color="#FF1493" /> <!-- Hot Pink -->
         </linearGradient>
 
         <filter id="goo">
@@ -62,9 +64,9 @@
     <use id="wave3" class="wave" xlink:href="#wave" x="0" y="-2"></use>
     <use id="wave2" class="wave" xlink:href="#wave" x="0" y="0"></use>
     <svg height="30" width="200" xmlns:xlink="http://www.w3.org/1999/xlink">
-        <a xlink:href="https://github.com/Trilokia" target="_top">
+        <a xlink:href="https://github.com/TofayelAhmed" target="_top">
             <text y="39" font-family="Times, serif" fill="grey" font-size="1px">
-                @Trilokia
+                @TofayelAhmed
             </text>
         </a>
     </svg>
