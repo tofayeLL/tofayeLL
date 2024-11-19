@@ -38,14 +38,14 @@
     <defs>
         <!-- Gradient for default wave -->
         <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="0%">
-            <stop offset="0%" stop-color="#d4b5f6" /> <!-- Light purple -->
-            <stop offset="100%" stop-color="#b5d4f6" /> <!-- Light blue -->
+            <stop offset="0%" stop-color="#9370DB" /> <!-- Light Purple -->
+            <stop offset="100%" stop-color="#87CEFA" /> <!-- Light Blue -->
         </linearGradient>
 
         <!-- Gradient for hover wave -->
         <linearGradient id="hoverGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-            <stop offset="0%" stop-color="#b59cf6" /> <!-- Darker light purple -->
-            <stop offset="100%" stop-color="#99c9f6" /> <!-- Darker light blue -->
+            <stop offset="0%" stop-color="#8364c8" /> <!-- Slightly darker purple -->
+            <stop offset="100%" stop-color="#76bde5" /> <!-- Slightly darker blue -->
         </linearGradient>
 
         <filter id="goo">
